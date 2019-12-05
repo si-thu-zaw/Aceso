@@ -5,7 +5,7 @@
 
 Aceso is developed as a coursework project for "Rapid Development Tools" module with the given requirements and specifications.
 
-The application is designed to provide an accounting, invoicing and billing solution for freelancers and small businesses by providing features to track billable hours and expenses under projects, send invoices to customers and track revenue to provide an all-in-one solution for businesses.
+The application is designed to act as a unified database of patient data accessible for all health care institutions involved for making the process of diagnosis and treatment much more simple and efficient.
 
 ## Technologies Used
 
